@@ -101,11 +101,5 @@ curl -X POST http://localhost:5000/compare -H "Content-Type: application/json" -
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
 
-## Acknowledgments
 
-- Thanks to the developers of the APIs used in this project.
-- Special thanks to the open-source community for their valuable tools and libraries.
 
-```
-
-Make sure to replace placeholders like `your-username` and `your-mouser-api-key` with actual values. If you need any adjustments or have additional details to include, just let me know!
